@@ -1,6 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-print("\t\t\t\t\tWellcome to Graph_Bridge Solver !")
+print("\t\t\tGraph Bridge Finder Algorithm")
 input_vertex=int(input("Enter the total number of Vertices:\n\t"))
 node_list=[]
 for i in range(1, input_vertex+1):
